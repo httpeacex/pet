@@ -1,0 +1,36 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+h1 {
+  font: serif;
+  font-size: 32px;
+  font-family: HELVETICA;
+  margin-bottom: 25px;
+}
+table {
+  border: 2;
+  font-family: HELVETICA;
+}
+figcaption {
+  font-style: italic;
+}
+.picture {
+  float: right;
+  margin: 15 0 10 10
+}
+p {
+  font-family: HELVETICA;
+  font-size: 15px;
+}
+blockquote {
+  font-family: monospace;
+  font-size: 13px;
+}
+h2 {
+  font-family: HELVETICA;
+}
+h3 {
+  font-family: HELVETICA;
+}
