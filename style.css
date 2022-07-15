@@ -41,4 +41,8 @@ ul {
 }
 figure {
   float: right;
+  width:10em;
+}
+figure>img {
+width:100%
 }
