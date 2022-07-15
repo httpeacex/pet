@@ -14,7 +14,7 @@ table {
   font-family: HELVETICA;
 }
 figcaption {
-  font-style: italic;
+  font-style: "HELVETICA";
 }
 .picture {
   float: right;
