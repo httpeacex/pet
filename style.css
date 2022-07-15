@@ -7,7 +7,7 @@ h1 {
   font: serif;
   font-size: 32px;
   font-family: HELVETICA;
-  margin-bottom: 25px;
+  margin-bottom: 45px;
 }
 table {
   border: 2;
@@ -32,5 +32,6 @@ h2 {
   font-family: HELVETICA;
 }
 h3 {
+
   font-family: HELVETICA;
 }
